@@ -1,0 +1,2 @@
+1.ct-analysis上传到hadoop集群上运行时报空指针异常，显示connection无法创建，因此无法将分析后的数据插入到mysql当中
+2.无法连接 192.168.103.7 上的 redis ，无法将 ct_date , ct_user 数据存储在 redis 中，以此来减轻 mapreduce 运行时的内存消耗
